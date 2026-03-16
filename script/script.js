@@ -263,13 +263,6 @@ const loadIssueDetail = (id) => {
   }
 
 
-//   // Show modal
-// document.getElementById("issue-modal").showModal();
-
-// // Close modal
-// const closeModal = () => {
-//   document.getElementById("issue-modal").close();
-// }
 
   // Show modal
   document.getElementById("issue-modal").classList.remove("hidden");
